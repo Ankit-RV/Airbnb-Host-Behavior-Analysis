@@ -1,4 +1,4 @@
-# Airbnb-Host-Behavior-Analysis
+# Airbnb Host Behavior Analysis
  The company wants to comprehend how host behavior varies across a variety of metrics.
  This project uses Airbnb data, which can be downloaded here: https://drive.google.com/drive/folders/1-k6_Mrz8BNubpnhVxvcuVJPBt-o8RDUg
 
